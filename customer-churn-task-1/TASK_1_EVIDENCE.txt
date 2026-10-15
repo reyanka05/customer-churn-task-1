@@ -1,0 +1,17 @@
+TASK 1 EVIDENCE SUMMARY
+
+Raw rows: 1003
+Columns: 11
+Exact duplicate rows: 3
+Duplicate CustomerIDs: 3
+Missing Age: 4
+Missing MonthlyCharges: 3
+Missing ContractType: 2
+Cleaned unique customers: 1000
+Missing cells after cleaning: 0
+
+Required steps:
+1. Profile columns, data types, missing values, outliers, duplicates: COMPLETE
+2. Clean with documented assumptions and validation checks: COMPLETE
+3. Summary statistics and meaningful distributions: COMPLETE
+4. One public/view-only proof link: USER MUST UPLOAD THIS FOLDER AND SUBMIT THE PUBLIC REPOSITORY URL

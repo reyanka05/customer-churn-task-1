@@ -1,0 +1,4 @@
+Metric,Value
+Rows checked,1000
+Rows within 10% relative difference,951
+Rows with >10% relative difference,49

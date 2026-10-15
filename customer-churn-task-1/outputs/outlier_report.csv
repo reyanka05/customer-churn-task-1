@@ -1,0 +1,6 @@
+Column,Q1,Q3,IQR,Lower_Bound,Upper_Bound,Outlier_Count,Min,Max,Treatment
+Age,32.0,57.0,25.0,-5.5,94.5,1,18.0,95.0,Flagged and retained; an IQR outlier is not automatically an invalid record.
+TenureMonths,17.5,52.5,35.0,-35.0,105.0,0,1.0,72.0,Flagged and retained; an IQR outlier is not automatically an invalid record.
+MonthlyCharges,49.14,97.28,48.14,-23.07,169.5,1,25.02,499.99,Flagged and retained; an IQR outlier is not automatically an invalid record.
+TotalCharges,1026.83,3765.64,2738.82,-3081.39,7873.87,6,23.95,8347.25,Flagged and retained; an IQR outlier is not automatically an invalid record.
+SupportCalls,1.0,3.0,2.0,-2.0,6.0,8,0.0,25.0,Flagged and retained; an IQR outlier is not automatically an invalid record.

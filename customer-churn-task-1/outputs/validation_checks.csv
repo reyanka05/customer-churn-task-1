@@ -1,0 +1,9 @@
+Check,Result
+No missing values after cleaning,True
+CustomerID unique,True
+Age between 18 and 100,True
+TenureMonths between 0 and 120,True
+MonthlyCharges non-negative,True
+TotalCharges non-negative,True
+SupportCalls non-negative,True
+Churn only Yes/No,True

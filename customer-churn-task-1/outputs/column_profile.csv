@@ -1,0 +1,12 @@
+Column,Data_Type,Non_Null,Missing,Unique_Non_NA
+CustomerID,str,1003,0,1000
+Age,float64,999,4,54
+Gender,str,1003,0,5
+TenureMonths,float64,1003,0,72
+MonthlyCharges,float64,1000,3,950
+TotalCharges,float64,1003,0,999
+ContractType,str,1001,2,5
+PaymentMethod,str,1003,0,4
+InternetService,str,1003,0,3
+SupportCalls,float64,1003,0,9
+Churn,str,1003,0,2

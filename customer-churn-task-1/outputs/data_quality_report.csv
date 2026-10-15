@@ -1,0 +1,12 @@
+Metric,Value
+Original rows,1003
+Rows after exact duplicate removal,1000
+Original duplicate rows,3
+Original duplicate CustomerIDs,0
+Rows after CustomerID deduplication,1000
+Missing Age before cleaning,4
+Missing MonthlyCharges before cleaning,3
+Missing ContractType before cleaning,2
+Whitespace/category variants normalized,5
+Missing cells after cleaning,0
+Duplicate CustomerIDs after cleaning,0

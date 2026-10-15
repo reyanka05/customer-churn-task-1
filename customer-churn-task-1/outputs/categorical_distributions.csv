@@ -1,0 +1,15 @@
+Column,Category,Count,Percentage
+Gender,Male,523,52.3
+Gender,Female,477,47.7
+ContractType,Month-to-month,539,53.9
+ContractType,One year,271,27.1
+ContractType,Two year,190,19.0
+PaymentMethod,Bank transfer,267,26.7
+PaymentMethod,Mailed check,251,25.1
+PaymentMethod,Credit card,250,25.0
+PaymentMethod,Electronic check,232,23.2
+InternetService,Fiber optic,431,43.1
+InternetService,DSL,373,37.3
+InternetService,No,196,19.6
+Churn,No,753,75.3
+Churn,Yes,247,24.7
